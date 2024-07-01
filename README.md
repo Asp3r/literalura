@@ -11,7 +11,7 @@
 
 ## Project Description
 
-This Java application (with Spring Boot implementation) was created as one of the final projects of the "Spring Boot and Databases" module of the "Back-End Programming with Java" course from Alura ONE (a course provided as a product of the alliance between Alura and Oracle ONE). The function of this small console program is to search for data of a specific book on the web, using the Gutendex API (https://gutendex.com/), and save data of said book, as well as its author, in a database (Said database is not provided in this repository for security reasons), thus allowing access to this data in a practical and fast way in the future.
+This Java application (with Spring implementation) was created as one of the final projects of the "Java, Spring and Databases" module of the "Back-End Programming with Java" course from Alura ONE (a course provided as a product of the alliance between Alura and Oracle ONE). The function of this small console program is to search for data of a specific book on the web, using the Gutendex API (https://gutendex.com/), and save data of said book, as well as its author, in a database (Said database is not provided in this repository for security reasons), thus allowing access to this data in a practical and fast way in the future.
 
 ### Features  
 
@@ -24,7 +24,7 @@ This Java application (with Spring Boot implementation) was created as one of th
 Literalura was developed using the following technologies:
 
 * Java (the base language in which the application was written)
-* Spring Boot (Java framework that facilitates the creation of standalone, production-ready applications)
+* Spring (Java framework that provides infrastructure support for developing robust and maintainable enterprise applications)
 * PostgreSQL (database management system used)
 * pgAdmin 4 (tool for managing and reviewing the PostgreSQL database)
 
