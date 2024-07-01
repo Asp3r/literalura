@@ -13,6 +13,12 @@
 
 This Java application (with Spring Boot implementation) was created as one of the final projects of the "Spring Boot and Databases" module of the "Back-End Programming with Java" course from Alura ONE (a course provided as a product of the alliance between Alura and Oracle ONE). The function of this small console program is to search for data of a specific book on the web, using the Gutendex API (https://gutendex.com/), and save data of said book, as well as its author, in a database (Said database is not provided in this repository for security reasons), thus allowing access to this data in a practical and fast way in the future.
 
+### Features  
+
+* Ability to search for a book requested by the user, as well as its author, and save their information in a durable way in a database.
+* Ability to access the complete record of books and authors saved in the database.
+* Ability to retrieve a record of books or authors with applied filters (book language, year the author was alive, etc.).
+
 ## Tools Used
 
 Literalura was developed using the following technologies:
